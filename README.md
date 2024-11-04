@@ -11,7 +11,6 @@
 - [Gameplay Mechanics](#gameplay-mechanics)
 - [Visual and Audio Design](#visual-and-audio-design)
 - [Development](#development)
-- [Installation](#installation)
 - [License](#license)
 
 ---
